@@ -6,5 +6,5 @@ SCRIPT=$(readlink -f "$0")
 # Absolute path this script is in
 SCRIPTPATH=$(dirname "$SCRIPT")
 
-# Run the Python script
-python3 "${SCRIPTPATH}/main.py"
+# Run the Python script located in the 'src' subdirectory
+python3 "${SCRIPTPATH}/src/main.py"

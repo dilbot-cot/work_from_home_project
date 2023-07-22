@@ -15,7 +15,7 @@ You will need Python 3 installed on your machine. This application is developed 
 To get this project running on your local machine, follow these steps:
 
 1. Clone the repository or download the project as a zip file and extract it.
-2. Navigate to the project directory in the terminal.
+2. Navigate to the project root directory in the terminal.
 3. Make the shell script executable by running the command `chmod +x run.sh`.
 4. Run the shell script with the command `./run.sh` to start the application.
 
