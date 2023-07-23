@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You will need Python 3 installed on your machine. This application is developed using Python 3.9, but it should work with any version of Python 3.
+You will need Python 3 installed on your machine. This application is developed using Python 3.11, but it should work with any version of Python 3.
 
 ### Installing
 
